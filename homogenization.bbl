@@ -1,0 +1,392 @@
+\newcommand{\noop}[1]{} \def\cprime{$'$}
+\begin{thebibliography}{DMM86b}
+
+\bibitem[ABM18]{ABM}
+S.~Armstrong, A.~Bordas, and J.-C. Mourrat.
+\newblock Quantitative stochastic homogenization and regularity theory of
+  parabolic equations.
+\newblock {\em Anal. PDE}, 11(8):1945--2014, 2018.
+
+\bibitem[AD18]{AD1}
+S.~Armstrong and P.~Dario.
+\newblock Elliptic regularity and quantitative homogenization on percolation
+  clusters.
+\newblock {\em Comm. Pure Appl. Math.}, 71(9):1717--1849, 2018.
+
+\bibitem[AD22]{AD2}
+S.~Armstrong and P.~Dario.
+\newblock Quantitative hydrodynamic limits of the langevin dynamics for
+  gradient interface models, 2022.
+\newblock Preprint, arXiv:2203.14926.
+
+\bibitem[ADMZ13]{ADMZ}
+N.~Ansini, G.~Dal~Maso, and C.~I. Zeppieri.
+\newblock {$\Gamma$}-convergence and {$H$}-convergence of linear elliptic
+  operators.
+\newblock {\em J. Math. Pures Appl. (9)}, 99(3):321--329, 2013.
+
+\bibitem[AK81]{Akc}
+M.~A. Akcoglu and U.~Krengel.
+\newblock Ergodic theorems for superadditive processes.
+\newblock {\em J. Reine Angew. Math.}, 323:53--67, 1981.
+
+\bibitem[AKM16]{AKM1}
+S.~Armstrong, T.~Kuusi, and J.-C. Mourrat.
+\newblock Mesoscopic higher regularity and subadditivity in elliptic
+  homogenization.
+\newblock {\em Comm. Math. Phys.}, 347(2):315--361, 2016.
+
+\bibitem[AKM17]{AKM}
+S.~Armstrong, T.~Kuusi, and J.-C. Mourrat.
+\newblock The additive structure of elliptic homogenization.
+\newblock {\em Invent. Math.}, 208(3):999--1154, 2017.
+
+\bibitem[AKM19]{AKMBook}
+S.~Armstrong, T.~Kuusi, and J.-C. Mourrat.
+\newblock {\em Quantitative stochastic homogenization and large-scale
+  regularity}, volume 352 of {\em Grundlehren der Mathematischen Wissenschaften
+  [Fundamental Principles of Mathematical Sciences]}.
+\newblock Springer, Cham, 2019.
+
+\bibitem[AL87]{AL1}
+M.~Avellaneda and F.-H. Lin.
+\newblock Compactness methods in the theory of homogenization.
+\newblock {\em Comm. Pure Appl. Math.}, 40(6):803--847, 1987.
+
+\bibitem[AL89]{AL2}
+M.~Avellaneda and F.-H. Lin.
+\newblock Un th\'{e}or\`eme de {L}iouville pour des \'{e}quations elliptiques
+  \`a coefficients p\'{e}riodiques.
+\newblock {\em C. R. Acad. Sci. Paris S\'{e}r. I Math.}, 309(5):245--250, 1989.
+
+\bibitem[AL91]{AL3}
+M.~Avellaneda and F.-H. Lin.
+\newblock {$L^p$} bounds on singular integrals in homogenization.
+\newblock {\em Comm. Pure Appl. Math.}, 44(8-9):897--910, 1991.
+
+\bibitem[AM16]{AM}
+S.~N. Armstrong and J.-C. Mourrat.
+\newblock Lipschitz regularity for elliptic equations with random coefficients.
+\newblock {\em Arch. Ration. Mech. Anal.}, 219(1):255--348, 2016.
+
+\bibitem[AS94]{AiS}
+S.~Aida and D.~Stroock.
+\newblock Moment estimates derived from {P}oincar\'{e} and logarithmic
+  {S}obolev inequalities.
+\newblock {\em Math. Res. Lett.}, 1(1):75--86, 1994.
+
+\bibitem[AS16a]{ASh}
+S.~N. Armstrong and Z.~Shen.
+\newblock Lipschitz estimates in almost-periodic homogenization.
+\newblock {\em Comm. Pure Appl. Math.}, 69(10):1882--1923, 2016.
+
+\bibitem[AS16b]{AS}
+S.~N. Armstrong and C.~K. Smart.
+\newblock Quantitative stochastic homogenization of convex integral
+  functionals.
+\newblock {\em Ann. Sci. \'Ec. Norm. Sup\'er. (4)}, 49(2):423--481, 2016.
+
+\bibitem[AS21]{ArmSer}
+S.~Armstrong and S.~Serfaty.
+\newblock Local laws and rigidity for {C}oulomb gases at any temperature.
+\newblock {\em Ann. Probab.}, 49(1):46--121, 2021.
+
+\bibitem[AW22]{AW}
+S.~Armstrong and W.~Wu.
+\newblock {$C^2$} regularity of the surface tension for the {$\nabla\phi$}
+  interface model.
+\newblock {\em Comm. Pure Appl. Math.}, 75(2):349--421, 2022.
+
+\bibitem[Bec81]{Becker}
+M.~E. Becker.
+\newblock Multiparameter groups of measure-preserving transformations: a simple
+  proof of {W}iener's ergodic theorem.
+\newblock {\em Ann. Probab.}, 9(3):504--509, 1981.
+
+\bibitem[Bil95]{Bill}
+P.~Billingsley.
+\newblock {\em Probability and measure}.
+\newblock Wiley Series in Probability and Mathematical Statistics. John Wiley
+  \& Sons, Inc., New York, third edition, 1995.
+\newblock A Wiley-Interscience Publication.
+
+\bibitem[Bis11]{Biskup}
+M.~Biskup.
+\newblock Recent progress on the random conductance model.
+\newblock {\em Probab. Surv.}, 8:294--373, 2011.
+
+\bibitem[BLM13]{BLM}
+S.~Boucheron, G.~Lugosi, and P.~Massart.
+\newblock {\em Concentration inequalities}.
+\newblock Oxford University Press, Oxford, 2013.
+\newblock A nonasymptotic theory of independence, With a foreword by Michel
+  Ledoux.
+
+\bibitem[BLP78]{BLP}
+A.~Bensoussan, J.-L. Lions, and G.~Papanicolaou.
+\newblock {\em Asymptotic analysis for periodic structures}, volume~5 of {\em
+  Studies in Mathematics and its Applications}.
+\newblock North-Holland Publishing Co., Amsterdam-New York, 1978.
+
+\bibitem[Bra05]{Brad}
+R.~C. Bradley.
+\newblock Basic properties of strong mixing conditions. {A} survey and some
+  open questions.
+\newblock {\em Probab. Surv.}, 2:107--144, 2005.
+\newblock Update of, and a supplement to, the 1986 original.
+
+\bibitem[Bra07]{B1}
+R.~C. Bradley.
+\newblock {\em Introduction to strong mixing conditions. {V}ol. 3}.
+\newblock Kendrick Press, Heber City, UT, 2007.
+
+\bibitem[Dar19]{D1}
+P.~Dario.
+\newblock Quantitative homogenization of the disordered {$\nabla_\phi$} model.
+\newblock {\em Electron. J. Probab.}, 24:Paper No. 90, 99, 2019.
+
+\bibitem[Dar21]{D3}
+P.~Dario.
+\newblock Quantitative homogenization of differential forms.
+\newblock {\em Ann. Inst. Henri Poincar\'{e} Probab. Stat.}, 57(2):1157--1202,
+  2021.
+
+\bibitem[DFG22]{DFG}
+M.~Duerinckx, J.~Fischer, and A.~Gloria.
+\newblock Scaling limit of the homogenization commutator for {G}aussian
+  coefficient fields.
+\newblock {\em Ann. Appl. Probab.}, 32(2):1179--1209, 2022.
+
+\bibitem[DG13]{DG}
+E.~De~Giorgi.
+\newblock {\em Selected papers}.
+\newblock Springer Collected Works in Mathematics. Springer, Heidelberg, 2013.
+
+\bibitem[DG20]{DG0}
+M.~Duerinckx and A.~Gloria.
+\newblock On {E}instein's effective viscosity formula, 2020.
+\newblock Preprint, arXiv:2008.03837.
+
+\bibitem[DGO20a]{DGO2}
+M.~Duerinckx, A.~Gloria, and F.~Otto.
+\newblock Robustness of the pathwise structure of fluctuations in stochastic
+  homogenization.
+\newblock {\em Probab. Theory Related Fields}, 178(1-2):531--566, 2020.
+
+\bibitem[DGO20b]{DGO}
+M.~Duerinckx, A.~Gloria, and F.~Otto.
+\newblock The structure of fluctuations in stochastic homogenization.
+\newblock {\em Comm. Math. Phys.}, 377(1):259--306, 2020.
+
+\bibitem[DGS73]{DGS}
+E.~De~Giorgi and S.~Spagnolo.
+\newblock Sulla convergenza degli integrali dell'energia per operatori
+  ellittici del secondo ordine.
+\newblock {\em Boll. Un. Mat. Ital. (4)}, 8:391--411, 1973.
+
+\bibitem[DMM86a]{DM1}
+G.~Dal~Maso and L.~Modica.
+\newblock Nonlinear stochastic homogenization.
+\newblock {\em Ann. Mat. Pura Appl. (4)}, 144:347--389, 1986.
+
+\bibitem[DMM86b]{DM2}
+G.~Dal~Maso and L.~Modica.
+\newblock Nonlinear stochastic homogenization and ergodic theory.
+\newblock {\em J. Reine Angew. Math.}, 368:28--42, 1986.
+
+\bibitem[DW20]{DW}
+P.~Dario and W.~Wu.
+\newblock Massless phases for the villain model in $d\geq 3$, 2020.
+\newblock Preprint, arXiv:2002.02946.
+
+\bibitem[EGMN15]{EGMN}
+A.-C. Egloffe, A.~Gloria, J.-C. Mourrat, and T.~N. Nguyen.
+\newblock Random walk in random environment, corrector equation and homogenized
+  coefficients: from theory to numerics, back and forth.
+\newblock {\em IMA J. Numer. Anal.}, 35(2):499--545, 2015.
+
+\bibitem[Fis19]{Fischer}
+J.~Fischer.
+\newblock The choice of representative volumes in the approximation of
+  effective properties of random materials.
+\newblock {\em Arch. Ration. Mech. Anal.}, 234(2):635--726, 2019.
+
+\bibitem[FO16]{FO}
+J.~Fischer and F.~Otto.
+\newblock A higher-order large-scale regularity theory for random elliptic
+  operators.
+\newblock {\em Comm. Partial Differential Equations}, 41(7):1108--1148, 2016.
+
+\bibitem[Fol99]{Folland}
+G.~B. Folland.
+\newblock {\em Real analysis}.
+\newblock Pure and Applied Mathematics (New York). John Wiley \& Sons, Inc.,
+  New York, second edition, 1999.
+\newblock Modern techniques and their applications, A Wiley-Interscience
+  Publication.
+
+\bibitem[FOT11]{Fuku}
+M.~Fukushima, Y.~Oshima, and M.~Takeda.
+\newblock {\em Dirichlet forms and symmetric {M}arkov processes}, volume~19 of
+  {\em De Gruyter Studies in Mathematics}.
+\newblock Walter de Gruyter \& Co., Berlin, extended edition, 2011.
+
+\bibitem[FP94]{FP1}
+A.~Fannjiang and G.~Papanicolaou.
+\newblock Convection enhanced diffusion for periodic flows.
+\newblock {\em SIAM J. Appl. Math.}, 54(2):333--408, 1994.
+
+\bibitem[GGM22]{GGM}
+A.~Giunti, C.~Gu, and J.-C. Mourrat.
+\newblock Quantitative homogenization of interacting particle systems.
+\newblock {\em Ann. Probab.}, 50(5):1885--1946, 2022.
+
+\bibitem[GMS11]{GMS}
+N.~Ghoussoub, A.~Moameni, and R.~Z. S\'{a}iz.
+\newblock Homogenization of maximal monotone vector fields via selfdual
+  variational calculus.
+\newblock {\em Adv. Nonlinear Stud.}, 11(2):323--360, 2011.
+
+\bibitem[GNO15]{GNO}
+A.~Gloria, S.~Neukamm, and F.~Otto.
+\newblock Quantification of ergodicity in stochastic homogenization: optimal
+  bounds via spectral gap on {G}lauber dynamics.
+\newblock {\em Invent. Math.}, 199(2):455--515, 2015.
+
+\bibitem[GNO20]{GNO2}
+A.~Gloria, S.~Neukamm, and F.~Otto.
+\newblock A regularity theory for random elliptic operators.
+\newblock {\em Milan J. Math.}, 88(1):99--170, 2020.
+
+\bibitem[GNO21a]{GNO3}
+A.~Gloria, S.~Neukamm, and F.~Otto.
+\newblock Quantitative estimates in stochastic homogenization for correlated
+  coefficient fields.
+\newblock {\em Anal. PDE}, 14(8):2497--2537, 2021.
+
+\bibitem[GNO21b]{GNO4}
+A.~Gloria, S.~Neukamm, and F.~Otto.
+\newblock Quantitative estimates in stochastic homogenization for correlated
+  coefficient fields.
+\newblock {\em Anal. PDE}, 14(8):2497--2537, 2021.
+
+\bibitem[GO11]{GO1}
+A.~Gloria and F.~Otto.
+\newblock An optimal variance estimate in stochastic homogenization of discrete
+  elliptic equations.
+\newblock {\em Ann. Probab.}, 39(3):779--856, 2011.
+
+\bibitem[GO12]{GO2}
+A.~Gloria and F.~Otto.
+\newblock An optimal error estimate in stochastic homogenization of discrete
+  elliptic equations.
+\newblock {\em Ann. Appl. Probab.}, 22(1):1--28, 2012.
+
+\bibitem[GO16]{GO6}
+A.~Gloria and F.~Otto.
+\newblock The corrector in stochastic homogenization: optimal rates, stochastic
+  integrability, and fluctuations, \noop{2016}{preprint, 114 pp.,
+  arXiv:1510.08290v3 (May 2016)}.
+
+\bibitem[GO17]{GO3}
+A.~Gloria and F.~Otto.
+\newblock Quantitative results on the corrector equation in stochastic
+  homogenization.
+\newblock {\em J. Eur. Math. Soc. (JEMS)}, 19(11):3489--3548, 2017.
+
+\bibitem[GZ22]{SZ1}
+S.~Gu and J.~Zhuge.
+\newblock Large-scale regularity of nearly incompressible elasticity in
+  stochastic homogenization.
+\newblock {\em Arch. Ration. Mech. Anal.}, 244(3):1311--1372, 2022.
+
+\bibitem[JKO94]{JKO}
+V.~V. Jikov, S.~M. Kozlov, and O.~A. Ole\u{\i}nik.
+\newblock {\em Homogenization of differential operators and integral
+  functionals}.
+\newblock Springer-Verlag, Berlin, 1994.
+\newblock Translated from the Russian by G. A. Yosifian [G. A. Iosif\cprime
+  yan].
+
+\bibitem[JS03]{JS}
+J.~Jacod and A.~N. Shiryaev.
+\newblock {\em Limit theorems for stochastic processes}, volume 288 of {\em
+  Grundlehren der mathematischen Wissenschaften [Fundamental Principles of
+  Mathematical Sciences]}.
+\newblock Springer-Verlag, Berlin, second edition, 2003.
+
+\bibitem[KLO12]{KLO}
+T.~Komorowski, C.~Landim, and S.~Olla.
+\newblock {\em Fluctuations in {M}arkov processes}, volume 345 of {\em
+  Grundlehren der mathematischen Wissenschaften [Fundamental Principles of
+  Mathematical Sciences]}.
+\newblock Springer, Heidelberg, 2012.
+\newblock Time symmetry and martingale approximation.
+
+\bibitem[Koz79]{Koz}
+S.~M. Kozlov.
+\newblock The averaging of random operators.
+\newblock {\em Mat. Sb. (N.S.)}, 109(151)(2):188--202, 327, 1979.
+
+\bibitem[KV86]{KV}
+C.~Kipnis and S.~R.~S. Varadhan.
+\newblock Central limit theorem for additive functionals of reversible {M}arkov
+  processes and applications to simple exclusions.
+\newblock {\em Comm. Math. Phys.}, 104(1):1--19, 1986.
+
+\bibitem[Led04]{L}
+M.~Ledoux.
+\newblock Spectral gap, logarithmic {S}obolev constant, and geometric bounds.
+\newblock In {\em Surveys in differential geometry. {V}ol. {IX}}, volume~9 of
+  {\em Surv. Differ. Geom.}, pages 219--240. Int. Press, Somerville, MA, 2004.
+
+\bibitem[McL74]{McLeish}
+D.~L. McLeish.
+\newblock Dependent central limit theorems and invariance principles.
+\newblock {\em Ann. Probability}, 2:620--628, 1974.
+
+\bibitem[MK99]{MK}
+A.~J. Majda and P.~R. Kramer.
+\newblock Simplified models for turbulent diffusion: theory, numerical
+  modelling, and physical phenomena.
+\newblock {\em Phys. Rep.}, 314(4-5):237--574, 1999.
+
+\bibitem[MO15]{MO}
+D.~Marahrens and F.~Otto.
+\newblock Annealed estimates on the {G}reen function.
+\newblock {\em Probab. Theory Related Fields}, 163(3-4):527--573, 2015.
+
+\bibitem[NS98]{NS2}
+A~Naddaf and T.~Spencer.
+\newblock Estimates on the variance of some homogenization problems, 1998.
+\newblock unpublished preprint.
+
+\bibitem[PV81]{PV}
+G.~C. Papanicolaou and S.~R.~S. Varadhan.
+\newblock Boundary value problems with rapidly oscillating random coefficients.
+\newblock In {\em Random fields, {V}ol. {I}, {II} ({E}sztergom, 1979)},
+  volume~27 of {\em Colloq. Math. Soc. J\'{a}nos Bolyai}, pages 835--873.
+  North-Holland, Amsterdam-New York, 1981.
+
+\bibitem[RY99]{RY}
+D.~Revuz and M.~Yor.
+\newblock {\em Continuous martingales and {B}rownian motion}, volume 293 of
+  {\em Grundlehren der mathematischen Wissenschaften [Fundamental Principles of
+  Mathematical Sciences]}.
+\newblock Springer-Verlag, Berlin, third edition, 1999.
+
+\bibitem[Tar09]{T}
+L.~Tartar.
+\newblock {\em The general theory of homogenization: a personalized
+  introduction}, volume~7 of {\em Lecture Notes of the Unione Matematica
+  Italiana}.
+\newblock Springer-Verlag, Berlin; UMI, Bologna, 2009.
+
+\bibitem[Tor02]{Torq}
+S.~Torquato.
+\newblock {\em Random heterogeneous materials}, volume~16 of {\em
+  Interdisciplinary Applied Mathematics}.
+\newblock Springer-Verlag, New York, 2002.
+\newblock Microstructure and macroscopic properties.
+
+\end{thebibliography}
