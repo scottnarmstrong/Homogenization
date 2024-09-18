@@ -1,5 +1,5 @@
 \newcommand{\noop}[1]{} \def\cprime{$'$}
-\begin{thebibliography}{DMM86b}
+\begin{thebibliography}{GGMN23}
 
 \bibitem[ABM18]{ABM}
 S.~Armstrong, A.~Bordas, and J.-C. Mourrat.
@@ -7,17 +7,23 @@ S.~Armstrong, A.~Bordas, and J.-C. Mourrat.
   parabolic equations.
 \newblock {\em Anal. PDE}, 11(8):1945--2014, 2018.
 
+\bibitem[ABRK24]{ABK.SD}
+S.~Armstrong, A.~Bou-Rabee, and T.~Kuusi.
+\newblock Superdiffusive central limit theorem for a {B}rownian particle in a
+  critically-correlated incompressible random drift, 2024.
+\newblock arXiv:2404.01115.
+
 \bibitem[AD18]{AD1}
 S.~Armstrong and P.~Dario.
 \newblock Elliptic regularity and quantitative homogenization on percolation
   clusters.
 \newblock {\em Comm. Pure Appl. Math.}, 71(9):1717--1849, 2018.
 
-\bibitem[AD22]{AD2}
+\bibitem[AD24]{AD2}
 S.~Armstrong and P.~Dario.
-\newblock Quantitative hydrodynamic limits of the langevin dynamics for
-  gradient interface models, 2022.
-\newblock Preprint, arXiv:2203.14926.
+\newblock Quantitative hydrodynamic limits of the {L}angevin dynamics for
+  gradient interface models.
+\newblock {\em Electron. J. Probab.}, 29:Paper No. 9, 93, 2024.
 
 \bibitem[ADMZ13]{ADMZ}
 N.~Ansini, G.~Dal~Maso, and C.~I. Zeppieri.
@@ -29,6 +35,12 @@ N.~Ansini, G.~Dal~Maso, and C.~I. Zeppieri.
 M.~A. Akcoglu and U.~Krengel.
 \newblock Ergodic theorems for superadditive processes.
 \newblock {\em J. Reine Angew. Math.}, 323:53--67, 1981.
+
+\bibitem[AK24]{AK.HC}
+S.~Armstrong and T.~Kuusi.
+\newblock Renormalization group and elliptic homogenization in high contrast,
+  2024.
+\newblock Preprint, arXiv:2405.10732.
 
 \bibitem[AKM16]{AKM1}
 S.~Armstrong, T.~Kuusi, and J.-C. Mourrat.
@@ -63,6 +75,12 @@ M.~Avellaneda and F.-H. Lin.
 M.~Avellaneda and F.-H. Lin.
 \newblock {$L^p$} bounds on singular integrals in homogenization.
 \newblock {\em Comm. Pure Appl. Math.}, 44(8-9):897--910, 1991.
+
+\bibitem[All02]{Allaire}
+G.~Allaire.
+\newblock {\em Shape optimization by the homogenization method}, volume 146 of
+  {\em Applied Mathematical Sciences}.
+\newblock Springer-Verlag, New York, 2002.
 
 \bibitem[AM16]{AM}
 S.~N. Armstrong and J.-C. Mourrat.
@@ -140,6 +158,12 @@ R.~C. Bradley.
 \newblock {\em Introduction to strong mixing conditions. {V}ol. 3}.
 \newblock Kendrick Press, Heber City, UT, 2007.
 
+\bibitem[CD99]{CD}
+D.~Cioranescu and P.~Donato.
+\newblock {\em An introduction to homogenization}, volume~17 of {\em Oxford
+  Lecture Series in Mathematics and its Applications}.
+\newblock The Clarendon Press, Oxford University Press, New York, 1999.
+
 \bibitem[Dar19]{D1}
 P.~Dario.
 \newblock Quantitative homogenization of the disordered {$\nabla_\phi$} model.
@@ -162,10 +186,11 @@ E.~De~Giorgi.
 \newblock {\em Selected papers}.
 \newblock Springer Collected Works in Mathematics. Springer, Heidelberg, 2013.
 
-\bibitem[DG20]{DG0}
+\bibitem[DG23]{DG0}
 M.~Duerinckx and A.~Gloria.
-\newblock On {E}instein's effective viscosity formula, 2020.
-\newblock Preprint, arXiv:2008.03837.
+\newblock {\em On {E}instein's effective viscosity formula}, volume~7 of {\em
+  Memoirs of the European Mathematical Society}.
+\newblock EMS Press, Berlin, 2023.
 
 \bibitem[DGO20a]{DGO2}
 M.~Duerinckx, A.~Gloria, and F.~Otto.
@@ -205,6 +230,12 @@ A.-C. Egloffe, A.~Gloria, J.-C. Mourrat, and T.~N. Nguyen.
   coefficients: from theory to numerics, back and forth.
 \newblock {\em IMA J. Numer. Anal.}, 35(2):499--545, 2015.
 
+\bibitem[FGW24]{FGW}
+T.~Funaki, C.~Gu, and H.~Wang.
+\newblock Quantitative homogenization and hydrodynamic limit of non-gradient
+  exclusion process, 2024.
+\newblock Preprint, arXiv:2404.12234.
+
 \bibitem[Fis19]{Fischer}
 J.~Fischer.
 \newblock The choice of representative volumes in the approximation of
@@ -240,6 +271,12 @@ A.~Fannjiang and G.~Papanicolaou.
 A.~Giunti, C.~Gu, and J.-C. Mourrat.
 \newblock Quantitative homogenization of interacting particle systems.
 \newblock {\em Ann. Probab.}, 50(5):1885--1946, 2022.
+
+\bibitem[GGMN23]{GGMN}
+A.~Giunti, C.~Gu, J.-C. Mourrat, and M.~Nitzschner.
+\newblock Smoothness of the diffusion coefficients for particle systems in
+  continuous space.
+\newblock {\em Commun. Contemp. Math.}, 25(3):Paper No. 2250027, 60, 2023.
 
 \bibitem[GMS11]{GMS}
 N.~Ghoussoub, A.~Moameni, and R.~Z. S\'{a}iz.
@@ -285,7 +322,7 @@ A.~Gloria and F.~Otto.
 \bibitem[GO16]{GO6}
 A.~Gloria and F.~Otto.
 \newblock The corrector in stochastic homogenization: optimal rates, stochastic
-  integrability, and fluctuations, \noop{2016}{preprint, 114 pp.,
+  integrability, and fluctuations, \noop{2016}{unpublished preprint, 114 pp.,
   arXiv:1510.08290v3 (May 2016)}.
 
 \bibitem[GO17]{GO3}
@@ -314,6 +351,12 @@ J.~Jacod and A.~N. Shiryaev.
   Grundlehren der mathematischen Wissenschaften [Fundamental Principles of
   Mathematical Sciences]}.
 \newblock Springer-Verlag, Berlin, second edition, 2003.
+
+\bibitem[Kal02]{Kallenberg}
+O.~Kallenberg.
+\newblock {\em Foundations of modern probability}.
+\newblock Probability and its Applications (New York). Springer-Verlag, New
+  York, second edition, 2002.
 
 \bibitem[KLO12]{KLO}
 T.~Komorowski, C.~Landim, and S.~Olla.
@@ -357,7 +400,7 @@ D.~Marahrens and F.~Otto.
 \newblock {\em Probab. Theory Related Fields}, 163(3-4):527--573, 2015.
 
 \bibitem[NS98]{NS2}
-A~Naddaf and T.~Spencer.
+A.~Naddaf and T.~Spencer.
 \newblock Estimates on the variance of some homogenization problems, 1998.
 \newblock unpublished preprint.
 
@@ -374,6 +417,13 @@ D.~Revuz and M.~Yor.
   {\em Grundlehren der mathematischen Wissenschaften [Fundamental Principles of
   Mathematical Sciences]}.
 \newblock Springer-Verlag, Berlin, third edition, 1999.
+
+\bibitem[She18]{ShenBook}
+Z.~Shen.
+\newblock {\em Periodic homogenization of elliptic systems}, volume 269 of {\em
+  Operator Theory: Advances and Applications}.
+\newblock Birkh\"{a}user/Springer, Cham, 2018.
+\newblock Advances in Partial Differential Equations (Basel).
 
 \bibitem[Tar09]{T}
 L.~Tartar.
